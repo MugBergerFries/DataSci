@@ -17,6 +17,7 @@
     <option name="height" value="1047" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -52,11 +53,12 @@
       <updated>1568302060703</updated>
       <workItem from="1568302063491" duration="313000" />
       <workItem from="1568302390112" duration="626000" />
+      <workItem from="1571764723592" duration="687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="939000" />
+    <option name="totallyTimeSpent" value="1626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
